@@ -1,0 +1,37 @@
+
+Statistics
+   text    data     bss     dec     hex filename
+  10808   59584      16   70408   11308 lab2-multi_0.elf
+
+Statistics
+   text    data     bss     dec     hex filename
+   3652     128      16    3796     ed4 lab2-multi_1.elf
+
+Statistics
+   text    data     bss     dec     hex filename
+   3652     128      16    3796     ed4 lab2-multi_2.elf
+
+Statistics
+   text    data     bss     dec     hex filename
+   3652     128      16    3796     ed4 lab2-multi_3.elf
+   
+Statistics
+   text    data     bss     dec     hex filename
+   3652     128      16    3796     ed4 lab2-multi_4.elf
+   
+--Performance Counter Report--
+Total Time : 686229 usec (34311475 clock-cycles)
++---------------+-----+------------+---------------+------------+
+| Section       |  %  | Time (usec)|  Time (clocks)|Occurrences |
++---------------+-----+------------+---------------+------------+
+| First 2 images|   0 |       1672 |         83644 |         1  |
++---------------+-----+------------+---------------+------------+
+|               |   0 |          0 |             0 |         0  |
++---------------+-----+------------+---------------+------------+
+|               |   0 |          0 |             0 |         0  |
++---------------+-----+------------+---------------+------------+
+|               |   0 |          0 |             0 |         0  |
++---------------+-----+------------+---------------+------------+
+|   Other images|  99 |     684543 |      34227171 |         1  |
++---------------+-----+------------+---------------+------------+
+686215 - 612 images
